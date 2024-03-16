@@ -5,7 +5,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 
-project_name = "Tennis Object Detection"
+project_name = "TODetection"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
